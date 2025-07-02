@@ -1,5 +1,7 @@
-<h1 align="center">Hello, I'm Gabriel!</h1>
-<h3 align="center">🖥️ A 26-year-old software student from Chile 🖥️</h3>
+# 👩🏻‍💻 GIGOR
+
+**`Software student from Chile`**
+<h3 align="center">🖥️ A 26-year-old  🖥️</h3>
 
 <h3 align="center">🌱 Currently learning CyberSecurity</h3>                              
 
