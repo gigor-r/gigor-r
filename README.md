@@ -1,4 +1,4 @@
-# 👩🏻‍💻 GIGOR
+# 👾 GIGOR
 
 **`Software student from Chile`**
 
@@ -14,4 +14,4 @@ Self-taught cybersecurity enthusiast 🌱
 
 #
 
-### 📺 Contact with me: gigor3001@gmail.com               
+### 📩 Contact with me: gigor3001@gmail.com               
