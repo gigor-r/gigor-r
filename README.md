@@ -6,6 +6,8 @@ Hello, I'm Gabriel, a 26-year-old software student!
 I love everything related to technology and video games. I'm using this as a portfolio so you can take a look at my work.
 Self-taught cybersecurity enthusiast 🌱
 
+
+Additionally, I have professional experience as an illustrator! ✏️
 ---
 
 ### 🛠️ Languages and Tools
