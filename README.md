@@ -1,12 +1,10 @@
-<h1 align="center">Hello, I'm Gabriel Igor!</h1>
+<h1 align="center">Hello, I'm Gabriel!</h1>
 <h3 align="center">A 26-year-old software student from Chile</h3>
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 📫 How to reach me **gigor3001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">📫 Contact with me:</h3>
+<p align="left">**gigor3001@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
