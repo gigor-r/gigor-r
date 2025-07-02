@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-<h3 align="left">📫 Contact with me:</h3>
-<p align="left">**gigor3001@gmail.com**
+<h3 align="left">📫 Contact with me: gigor3001@gmail.com</h3>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
