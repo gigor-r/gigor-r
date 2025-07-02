@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Gabriel!</h1>
-<h3 align="center">A 26-year-old software student from Chile</h3>
+<h3 align="center">🖥️ A 26-year-old software student from Chile 🖥️</h3>
 
-- 🌱 I’m currently learning **CyberSecurity**
+🌱 Currently learning **CyberSecurity**
 
 <p align="left">
 </p>
