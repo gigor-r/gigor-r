@@ -17,7 +17,7 @@ Additionally, I have professional experience as an illustrator! ✏️
 
 #
 ### 📊 GitHub Stats
-![gigor3001's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigor3001&show_icons=true&theme=gruvbox)
+![gigor3001's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigor-r&show_icons=true&theme=gruvbox)
 
 #
 ### 📩 Contact with me: gigor3001@gmail.com               
